@@ -23,6 +23,6 @@ pydocstyle дальше ругается на отсутвие документ�
 # pycodestyle
 ![image](https://user-images.githubusercontent.com/46523068/151666312-9236c82e-83c8-4df7-ad4b-360b01aaae47.png)
 
-# Отформатируем
+Отформатируем
 ![image](https://user-images.githubusercontent.com/46523068/151666336-4389bf42-f7a2-4a01-ac43-60006eed3674.png)
 ![image](https://user-images.githubusercontent.com/46523068/151666342-9d3b7d56-187c-4a7c-86a9-7b55cb460b44.png)
